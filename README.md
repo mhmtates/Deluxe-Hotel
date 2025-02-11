@@ -1,3 +1,3 @@
 **Deluxe Hotel**
 ---------
-**Digiway Akademi** **Front-End** eğitiminde **flex** yapısını kullanarak yapmış olduğum bir otel sitesidir.
+Flex yapısını kullanarak yapmış olduğum bir otel sitesi.
